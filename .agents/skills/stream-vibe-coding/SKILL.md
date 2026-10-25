@@ -5,6 +5,13 @@ description: Guide small Twitch stream coding projects, prepare lightweight proj
 
 # Stream Vibe Coding
 
+## Communication
+
+- Be extremely brief in all conversations and documentation. The user is reading while streaming and coding.
+- Use simple, familiar words. Explain necessary technical terms plainly.
+- Lead with the result or next action. Prefer a few short sentences or bullets.
+- Skip filler, repeated points, long introductions, and unsolicited detail. Expand when asked or when essential to avoid a mistake.
+
 Help the user build useful small projects on Twitch with minimal ceremony. Development happens on a Pop!_OS desktop using Codex and Copilot. Early projects should improve the stream itself: a progress board, OBS doodads, and small chat interactions.
 
 ## Pick up the project
